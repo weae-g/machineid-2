@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmachineid.a CMakeFiles/machineid.dir/src/machineid/machineid.cpp.o
+/usr/bin/ranlib libmachineid.a

@@ -1,0 +1,3 @@
+/home/weae/Документы/_projects/machineid-2/machineid/build/CMakeFiles/machineid.dir
+/home/weae/Документы/_projects/machineid-2/machineid/build/CMakeFiles/edit_cache.dir
+/home/weae/Документы/_projects/machineid-2/machineid/build/CMakeFiles/rebuild_cache.dir
